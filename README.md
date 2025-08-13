@@ -1,13 +1,28 @@
 <h1 align="center">Hello 👋, I'm Recep Barkın Topcu!</h1>
 
 ###
-
-<h3 align="center">I am working on a variety of projects in data science and artificial intelligence.</h3>
+<h3 align="center">
+  Recent graduate in Electrical & Electronics Engineering and Computer Engineering,  
+  passionate about Data Science and Artificial Intelligence
+</h3>
+<p align="center">
+  I am actively building projects in <b>Data Science</b> and <b>AI</b>, exploring techniques in machine learning, data analytics, and visualization.  
+  My work often involves <b>Power BI</b>, <b>Python</b>, <b>SQL</b>, and <b>cloud-based tools</b> for end-to-end data solutions.
+</p>
+<p align="center">
+  I also participate in <a href="https://www.kaggle.com/">Kaggle</a> competitions to sharpen my skills, learn from the global data community,  
+  and tackle diverse analytical challenges.
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/recepbarkintopcu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo" />
+  </a>
+    <a href="https://www.kaggle.com/recepbarkntopcu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="kaggle logo" />
+  </a>
 </div>
 
 ###
